@@ -1,0 +1,19 @@
+ICC Champions Trophy 2025 - Power BI Dashboard 🏏📊
+This project provides an in-depth data analysis of ICC Champions Trophy 2025, covering team, batting, bowling, and match performances. The data was web-scraped from Cricbuzz using BeautifulSoup, then cleaned and transformed into CSV files for further analysis.
+
+In Power BI, I implemented various measures and transformations to create an interactive dashboard that helps analyze:
+✅ Teams’ overall performance
+✅ Batting and bowling stats
+✅ Match insights and trends
+✅ Key player performances
+
+Tech Stack & Tools
+Web Scraping: Python, BeautifulSoup
+
+Data Cleaning & Processing: Pandas, NumPy
+
+Data Visualization: Power BI
+
+Database: CSV files
+
+This project is aimed at cricket analysts, teams, and fans who want to gain insights from tournament data.
